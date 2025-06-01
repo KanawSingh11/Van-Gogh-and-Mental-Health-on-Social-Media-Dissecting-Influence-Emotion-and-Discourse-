@@ -1,0 +1,1595 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d1" for="node" attr.name="betweenness" attr.type="double"/>
+<key id="d0" for="node" attr.name="community" attr.type="long"/>
+<graph edgedefault="undirected"><node id="#vangogh">
+  <data key="d0">0</data>
+  <data key="d1">0.3124888957237873</data>
+</node>
+<node id="#vincentvangogh">
+  <data key="d0">0</data>
+  <data key="d1">0.06274583981150327</data>
+</node>
+<node id="#mentalillness">
+  <data key="d0">0</data>
+  <data key="d1">0.0005520812976353332</data>
+</node>
+<node id="#mentalhealth">
+  <data key="d0">0</data>
+  <data key="d1">0.1121292414076272</data>
+</node>
+<node id="#mentalhealthawareness">
+  <data key="d0">0</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#history">
+  <data key="d0">1</data>
+  <data key="d1">0.058169997723993075</data>
+</node>
+<node id="#secrethistory">
+  <data key="d0">1</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#tragicstory">
+  <data key="d0">1</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#art">
+  <data key="d0">1</data>
+  <data key="d1">0.13730004866783652</data>
+</node>
+<node id="#depression">
+  <data key="d0">0</data>
+  <data key="d1">0.10048442817252672</data>
+</node>
+<node id="#fame">
+  <data key="d0">1</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#39">
+  <data key="d0">3</data>
+  <data key="d1">0.11620250921168285</data>
+</node>
+<node id="#shorts">
+  <data key="d0">0</data>
+  <data key="d1">0.07257176627901663</data>
+</node>
+<node id="#endthestigma">
+  <data key="d0">0</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#struggle">
+  <data key="d0">0</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#anxiety">
+  <data key="d0">5</data>
+  <data key="d1">0.0181991317695832</data>
+</node>
+<node id="#life">
+  <data key="d0">5</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#1million">
+  <data key="d0">5</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#love">
+  <data key="d0">5</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#romantic">
+  <data key="d0">5</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#artists">
+  <data key="d0">5</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#arthistory">
+  <data key="d0">3</data>
+  <data key="d1">0.035821637546309626</data>
+</node>
+<node id="#therapy">
+  <data key="d0">4</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#selfimprovement">
+  <data key="d0">4</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#inspirationalquotes">
+  <data key="d0">4</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#inspirational">
+  <data key="d0">4</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#dailymotivation">
+  <data key="d0">4</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#dailyinspiration">
+  <data key="d0">4</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#help">
+  <data key="d0">5</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#care">
+  <data key="d0">5</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#story">
+  <data key="d0">5</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#real">
+  <data key="d0">5</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#alone">
+  <data key="d0">5</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#amsterdam">
+  <data key="d0">1</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#vangoghmuseum">
+  <data key="d0">1</data>
+  <data key="d1">0.0018811428729349387</data>
+</node>
+<node id="#artist">
+  <data key="d0">1</data>
+  <data key="d1">0.04238971200647389</data>
+</node>
+<node id="#short">
+  <data key="d0">1</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#reel">
+  <data key="d0">1</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#artlife">
+  <data key="d0">1</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#starrynight">
+  <data key="d0">3</data>
+  <data key="d1">0.02978269944070217</data>
+</node>
+<node id="#viralreels">
+  <data key="d0">5</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#viralvideo">
+  <data key="d0">5</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#painting">
+  <data key="d0">1</data>
+  <data key="d1">0.027973319876836406</data>
+</node>
+<node id="#drawing">
+  <data key="d0">1</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#schizoaffective">
+  <data key="d0">0</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#schizophrenia">
+  <data key="d0">0</data>
+  <data key="d1">0.02666210670314638</data>
+</node>
+<node id="#bbc">
+  <data key="d0">0</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#sad">
+  <data key="d0">0</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#joerogan">
+  <data key="d0">2</data>
+  <data key="d1">0.005876652986776104</data>
+</node>
+<node id="#culture">
+  <data key="d0">1</data>
+  <data key="d1">0.001256814544414125</data>
+</node>
+<node id="#museum">
+  <data key="d0">1</data>
+  <data key="d1">0.001256814544414125</data>
+</node>
+<node id="#portrait">
+  <data key="d0">1</data>
+  <data key="d1">0.001256814544414125</data>
+</node>
+<node id="#hidden">
+  <data key="d0">1</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#fyp">
+  <data key="d0">1</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#jre">
+  <data key="d0">2</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#joeroganexperience">
+  <data key="d0">2</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#night">
+  <data key="d0">2</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#neildegrassetyson">
+  <data key="d0">2</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#fact">
+  <data key="d0">1</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#facts">
+  <data key="d0">1</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#vangoghear">
+  <data key="d0">0</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#vangoghart">
+  <data key="d0">0</data>
+  <data key="d1">0.002932681393693705</data>
+</node>
+<node id="#mystery">
+  <data key="d0">3</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#humanhistoryondrugs">
+  <data key="d0">0</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#crazyhistory">
+  <data key="d0">0</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#gogh">
+  <data key="d0">3</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#mysteries">
+  <data key="d0">3</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#onthisday">
+  <data key="d0">3</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#didyouknow">
+  <data key="d0">3</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#behindtheeasel">
+  <data key="d0">1</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#historyfacts">
+  <data key="d0">1</data>
+  <data key="d1">5.471956224350206e-05</data>
+</node>
+<node id="#thesimplistic">
+  <data key="d0">1</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#funfacts">
+  <data key="d0">3</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#artconspiracy">
+  <data key="d0">3</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#hiddenhistory">
+  <data key="d0">3</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#famouspaintings">
+  <data key="d0">3</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#artmysteriessolved">
+  <data key="d0">3</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#artanalysis">
+  <data key="d0">0</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#artpainting">
+  <data key="d0">1</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#biofamous">
+  <data key="d0">0</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#information">
+  <data key="d0">1</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#shortvideo">
+  <data key="d0">1</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#inspiration">
+  <data key="d0">1</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#painter">
+  <data key="d0">1</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#shors">
+  <data key="d0">0</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#vlog">
+  <data key="d0">0</data>
+  <data key="d1">0.0</data>
+</node>
+<node id="#vincent">
+  <data key="d0">1</data>
+  <data key="d1">0.0</data>
+</node>
+<edge source="#vangogh" target="#vincentvangogh">
+  <data key="d2">9</data>
+</edge>
+<edge source="#vangogh" target="#mentalillness">
+  <data key="d2">6</data>
+</edge>
+<edge source="#vangogh" target="#mentalhealth">
+  <data key="d2">11</data>
+</edge>
+<edge source="#vangogh" target="#mentalhealthawareness">
+  <data key="d2">3</data>
+</edge>
+<edge source="#vangogh" target="#art">
+  <data key="d2">11</data>
+</edge>
+<edge source="#vangogh" target="#struggle">
+  <data key="d2">2</data>
+</edge>
+<edge source="#vangogh" target="#depression">
+  <data key="d2">6</data>
+</edge>
+<edge source="#vangogh" target="#anxiety">
+  <data key="d2">2</data>
+</edge>
+<edge source="#vangogh" target="#life">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vangogh" target="#1million">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vangogh" target="#love">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vangogh" target="#romantic">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vangogh" target="#artists">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vangogh" target="#arthistory">
+  <data key="d2">6</data>
+</edge>
+<edge source="#vangogh" target="#amsterdam">
+  <data key="d2">2</data>
+</edge>
+<edge source="#vangogh" target="#vangoghmuseum">
+  <data key="d2">2</data>
+</edge>
+<edge source="#vangogh" target="#artist">
+  <data key="d2">6</data>
+</edge>
+<edge source="#vangogh" target="#short">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vangogh" target="#reel">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vangogh" target="#artlife">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vangogh" target="#starrynight">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vangogh" target="#viralreels">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vangogh" target="#viralvideo">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vangogh" target="#painting">
+  <data key="d2">3</data>
+</edge>
+<edge source="#vangogh" target="#drawing">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vangogh" target="#schizoaffective">
+  <data key="d2">3</data>
+</edge>
+<edge source="#vangogh" target="#schizophrenia">
+  <data key="d2">4</data>
+</edge>
+<edge source="#vangogh" target="#shorts">
+  <data key="d2">8</data>
+</edge>
+<edge source="#vangogh" target="#history">
+  <data key="d2">5</data>
+</edge>
+<edge source="#vangogh" target="#39">
+  <data key="d2">6</data>
+</edge>
+<edge source="#vangogh" target="#culture">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vangogh" target="#museum">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vangogh" target="#portrait">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vangogh" target="#hidden">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vangogh" target="#jre">
+  <data key="d2">2</data>
+</edge>
+<edge source="#vangogh" target="#joerogan">
+  <data key="d2">2</data>
+</edge>
+<edge source="#vangogh" target="#joeroganexperience">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vangogh" target="#night">
+  <data key="d2">2</data>
+</edge>
+<edge source="#vangogh" target="#neildegrassetyson">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vangogh" target="#vangoghear">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vangogh" target="#vangoghart">
+  <data key="d2">2</data>
+</edge>
+<edge source="#vangogh" target="#mystery">
+  <data key="d2">2</data>
+</edge>
+<edge source="#vangogh" target="#humanhistoryondrugs">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vangogh" target="#crazyhistory">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vangogh" target="#gogh">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vangogh" target="#onthisday">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vangogh" target="#didyouknow">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vangogh" target="#behindtheeasel">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vangogh" target="#historyfacts">
+  <data key="d2">2</data>
+</edge>
+<edge source="#vangogh" target="#thesimplistic">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vangogh" target="#artpainting">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vangogh" target="#information">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vangogh" target="#vlog">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vincentvangogh" target="#mentalillness">
+  <data key="d2">6</data>
+</edge>
+<edge source="#vincentvangogh" target="#mentalhealth">
+  <data key="d2">10</data>
+</edge>
+<edge source="#vincentvangogh" target="#mentalhealthawareness">
+  <data key="d2">3</data>
+</edge>
+<edge source="#vincentvangogh" target="#schizoaffective">
+  <data key="d2">3</data>
+</edge>
+<edge source="#vincentvangogh" target="#schizophrenia">
+  <data key="d2">3</data>
+</edge>
+<edge source="#vincentvangogh" target="#depression">
+  <data key="d2">4</data>
+</edge>
+<edge source="#vincentvangogh" target="#shorts">
+  <data key="d2">10</data>
+</edge>
+<edge source="#vincentvangogh" target="#bbc">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vincentvangogh" target="#art">
+  <data key="d2">6</data>
+</edge>
+<edge source="#vincentvangogh" target="#sad">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vincentvangogh" target="#vangoghear">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vincentvangogh" target="#vangoghart">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vincentvangogh" target="#39">
+  <data key="d2">6</data>
+</edge>
+<edge source="#vincentvangogh" target="#arthistory">
+  <data key="d2">6</data>
+</edge>
+<edge source="#vincentvangogh" target="#mystery">
+  <data key="d2">4</data>
+</edge>
+<edge source="#vincentvangogh" target="#vincentvangogh">
+  <data key="d2">2</data>
+</edge>
+<edge source="#vincentvangogh" target="#mysteries">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vincentvangogh" target="#funfacts">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vincentvangogh" target="#artconspiracy">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vincentvangogh" target="#hiddenhistory">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vincentvangogh" target="#famouspaintings">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vincentvangogh" target="#starrynight">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vincentvangogh" target="#artmysteriessolved">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vincentvangogh" target="#artanalysis">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vincentvangogh" target="#biofamous">
+  <data key="d2">4</data>
+</edge>
+<edge source="#mentalillness" target="#mentalhealth">
+  <data key="d2">6</data>
+</edge>
+<edge source="#mentalillness" target="#mentalhealthawareness">
+  <data key="d2">3</data>
+</edge>
+<edge source="#mentalillness" target="#schizoaffective">
+  <data key="d2">3</data>
+</edge>
+<edge source="#mentalillness" target="#schizophrenia">
+  <data key="d2">3</data>
+</edge>
+<edge source="#mentalillness" target="#depression">
+  <data key="d2">3</data>
+</edge>
+<edge source="#mentalillness" target="#shorts">
+  <data key="d2">3</data>
+</edge>
+<edge source="#mentalhealth" target="#mentalhealthawareness">
+  <data key="d2">3</data>
+</edge>
+<edge source="#mentalhealth" target="#endthestigma">
+  <data key="d2">1</data>
+</edge>
+<edge source="#mentalhealth" target="#depression">
+  <data key="d2">5</data>
+</edge>
+<edge source="#mentalhealth" target="#art">
+  <data key="d2">6</data>
+</edge>
+<edge source="#mentalhealth" target="#struggle">
+  <data key="d2">2</data>
+</edge>
+<edge source="#mentalhealth" target="#39">
+  <data key="d2">3</data>
+</edge>
+<edge source="#mentalhealth" target="#therapy">
+  <data key="d2">2</data>
+</edge>
+<edge source="#mentalhealth" target="#selfimprovement">
+  <data key="d2">2</data>
+</edge>
+<edge source="#mentalhealth" target="#inspirationalquotes">
+  <data key="d2">2</data>
+</edge>
+<edge source="#mentalhealth" target="#inspirational">
+  <data key="d2">2</data>
+</edge>
+<edge source="#mentalhealth" target="#dailymotivation">
+  <data key="d2">2</data>
+</edge>
+<edge source="#mentalhealth" target="#dailyinspiration">
+  <data key="d2">2</data>
+</edge>
+<edge source="#mentalhealth" target="#shorts">
+  <data key="d2">9</data>
+</edge>
+<edge source="#mentalhealth" target="#help">
+  <data key="d2">1</data>
+</edge>
+<edge source="#mentalhealth" target="#care">
+  <data key="d2">1</data>
+</edge>
+<edge source="#mentalhealth" target="#story">
+  <data key="d2">1</data>
+</edge>
+<edge source="#mentalhealth" target="#real">
+  <data key="d2">1</data>
+</edge>
+<edge source="#mentalhealth" target="#anxiety">
+  <data key="d2">1</data>
+</edge>
+<edge source="#mentalhealth" target="#alone">
+  <data key="d2">1</data>
+</edge>
+<edge source="#mentalhealth" target="#schizoaffective">
+  <data key="d2">3</data>
+</edge>
+<edge source="#mentalhealth" target="#schizophrenia">
+  <data key="d2">3</data>
+</edge>
+<edge source="#mentalhealth" target="#facts">
+  <data key="d2">1</data>
+</edge>
+<edge source="#mentalhealth" target="#vangoghear">
+  <data key="d2">1</data>
+</edge>
+<edge source="#mentalhealth" target="#vangoghart">
+  <data key="d2">1</data>
+</edge>
+<edge source="#mentalhealth" target="#arthistory">
+  <data key="d2">2</data>
+</edge>
+<edge source="#mentalhealth" target="#mystery">
+  <data key="d2">2</data>
+</edge>
+<edge source="#mentalhealth" target="#artanalysis">
+  <data key="d2">1</data>
+</edge>
+<edge source="#history" target="#secrethistory">
+  <data key="d2">1</data>
+</edge>
+<edge source="#history" target="#tragicstory">
+  <data key="d2">1</data>
+</edge>
+<edge source="#history" target="#art">
+  <data key="d2">10</data>
+</edge>
+<edge source="#history" target="#depression">
+  <data key="d2">1</data>
+</edge>
+<edge source="#history" target="#fame">
+  <data key="d2">1</data>
+</edge>
+<edge source="#history" target="#shorts">
+  <data key="d2">2</data>
+</edge>
+<edge source="#history" target="#arthistory">
+  <data key="d2">3</data>
+</edge>
+<edge source="#history" target="#39">
+  <data key="d2">1</data>
+</edge>
+<edge source="#history" target="#artist">
+  <data key="d2">5</data>
+</edge>
+<edge source="#history" target="#culture">
+  <data key="d2">2</data>
+</edge>
+<edge source="#history" target="#museum">
+  <data key="d2">2</data>
+</edge>
+<edge source="#history" target="#painting">
+  <data key="d2">7</data>
+</edge>
+<edge source="#history" target="#portrait">
+  <data key="d2">2</data>
+</edge>
+<edge source="#history" target="#hidden">
+  <data key="d2">1</data>
+</edge>
+<edge source="#history" target="#fact">
+  <data key="d2">1</data>
+</edge>
+<edge source="#history" target="#onthisday">
+  <data key="d2">1</data>
+</edge>
+<edge source="#history" target="#didyouknow">
+  <data key="d2">1</data>
+</edge>
+<edge source="#history" target="#historyfacts">
+  <data key="d2">2</data>
+</edge>
+<edge source="#history" target="#thesimplistic">
+  <data key="d2">1</data>
+</edge>
+<edge source="#history" target="#information">
+  <data key="d2">1</data>
+</edge>
+<edge source="#history" target="#shortvideo">
+  <data key="d2">1</data>
+</edge>
+<edge source="#history" target="#inspiration">
+  <data key="d2">1</data>
+</edge>
+<edge source="#history" target="#starrynight">
+  <data key="d2">1</data>
+</edge>
+<edge source="#history" target="#painter">
+  <data key="d2">4</data>
+</edge>
+<edge source="#history" target="#history">
+  <data key="d2">1</data>
+</edge>
+<edge source="#history" target="#vincent">
+  <data key="d2">1</data>
+</edge>
+<edge source="#secrethistory" target="#tragicstory">
+  <data key="d2">1</data>
+</edge>
+<edge source="#secrethistory" target="#art">
+  <data key="d2">1</data>
+</edge>
+<edge source="#secrethistory" target="#depression">
+  <data key="d2">1</data>
+</edge>
+<edge source="#secrethistory" target="#fame">
+  <data key="d2">1</data>
+</edge>
+<edge source="#tragicstory" target="#art">
+  <data key="d2">1</data>
+</edge>
+<edge source="#tragicstory" target="#depression">
+  <data key="d2">1</data>
+</edge>
+<edge source="#tragicstory" target="#fame">
+  <data key="d2">1</data>
+</edge>
+<edge source="#art" target="#depression">
+  <data key="d2">4</data>
+</edge>
+<edge source="#art" target="#fame">
+  <data key="d2">1</data>
+</edge>
+<edge source="#art" target="#struggle">
+  <data key="d2">2</data>
+</edge>
+<edge source="#art" target="#anxiety">
+  <data key="d2">1</data>
+</edge>
+<edge source="#art" target="#life">
+  <data key="d2">1</data>
+</edge>
+<edge source="#art" target="#1million">
+  <data key="d2">1</data>
+</edge>
+<edge source="#art" target="#love">
+  <data key="d2">1</data>
+</edge>
+<edge source="#art" target="#romantic">
+  <data key="d2">1</data>
+</edge>
+<edge source="#art" target="#artists">
+  <data key="d2">1</data>
+</edge>
+<edge source="#art" target="#amsterdam">
+  <data key="d2">1</data>
+</edge>
+<edge source="#art" target="#vangoghmuseum">
+  <data key="d2">1</data>
+</edge>
+<edge source="#art" target="#artist">
+  <data key="d2">4</data>
+</edge>
+<edge source="#art" target="#short">
+  <data key="d2">1</data>
+</edge>
+<edge source="#art" target="#reel">
+  <data key="d2">1</data>
+</edge>
+<edge source="#art" target="#artlife">
+  <data key="d2">1</data>
+</edge>
+<edge source="#art" target="#shorts">
+  <data key="d2">4</data>
+</edge>
+<edge source="#art" target="#painting">
+  <data key="d2">6</data>
+</edge>
+<edge source="#art" target="#drawing">
+  <data key="d2">1</data>
+</edge>
+<edge source="#art" target="#bbc">
+  <data key="d2">1</data>
+</edge>
+<edge source="#art" target="#sad">
+  <data key="d2">1</data>
+</edge>
+<edge source="#art" target="#arthistory">
+  <data key="d2">6</data>
+</edge>
+<edge source="#art" target="#fyp">
+  <data key="d2">1</data>
+</edge>
+<edge source="#art" target="#facts">
+  <data key="d2">1</data>
+</edge>
+<edge source="#art" target="#39">
+  <data key="d2">3</data>
+</edge>
+<edge source="#art" target="#mystery">
+  <data key="d2">4</data>
+</edge>
+<edge source="#art" target="#art">
+  <data key="d2">2</data>
+</edge>
+<edge source="#art" target="#behindtheeasel">
+  <data key="d2">1</data>
+</edge>
+<edge source="#art" target="#historyfacts">
+  <data key="d2">2</data>
+</edge>
+<edge source="#art" target="#thesimplistic">
+  <data key="d2">1</data>
+</edge>
+<edge source="#art" target="#artanalysis">
+  <data key="d2">1</data>
+</edge>
+<edge source="#art" target="#information">
+  <data key="d2">1</data>
+</edge>
+<edge source="#art" target="#painter">
+  <data key="d2">4</data>
+</edge>
+<edge source="#art" target="#vincent">
+  <data key="d2">1</data>
+</edge>
+<edge source="#depression" target="#fame">
+  <data key="d2">1</data>
+</edge>
+<edge source="#depression" target="#endthestigma">
+  <data key="d2">1</data>
+</edge>
+<edge source="#depression" target="#anxiety">
+  <data key="d2">3</data>
+</edge>
+<edge source="#depression" target="#life">
+  <data key="d2">1</data>
+</edge>
+<edge source="#depression" target="#1million">
+  <data key="d2">1</data>
+</edge>
+<edge source="#depression" target="#love">
+  <data key="d2">1</data>
+</edge>
+<edge source="#depression" target="#romantic">
+  <data key="d2">1</data>
+</edge>
+<edge source="#depression" target="#artists">
+  <data key="d2">1</data>
+</edge>
+<edge source="#depression" target="#shorts">
+  <data key="d2">5</data>
+</edge>
+<edge source="#depression" target="#help">
+  <data key="d2">1</data>
+</edge>
+<edge source="#depression" target="#care">
+  <data key="d2">1</data>
+</edge>
+<edge source="#depression" target="#story">
+  <data key="d2">1</data>
+</edge>
+<edge source="#depression" target="#real">
+  <data key="d2">1</data>
+</edge>
+<edge source="#depression" target="#alone">
+  <data key="d2">1</data>
+</edge>
+<edge source="#depression" target="#amsterdam">
+  <data key="d2">1</data>
+</edge>
+<edge source="#depression" target="#vangoghmuseum">
+  <data key="d2">1</data>
+</edge>
+<edge source="#depression" target="#artist">
+  <data key="d2">1</data>
+</edge>
+<edge source="#depression" target="#short">
+  <data key="d2">1</data>
+</edge>
+<edge source="#depression" target="#reel">
+  <data key="d2">1</data>
+</edge>
+<edge source="#depression" target="#artlife">
+  <data key="d2">1</data>
+</edge>
+<edge source="#depression" target="#starrynight">
+  <data key="d2">1</data>
+</edge>
+<edge source="#depression" target="#viralreels">
+  <data key="d2">1</data>
+</edge>
+<edge source="#depression" target="#viralvideo">
+  <data key="d2">1</data>
+</edge>
+<edge source="#depression" target="#schizoaffective">
+  <data key="d2">3</data>
+</edge>
+<edge source="#depression" target="#schizophrenia">
+  <data key="d2">3</data>
+</edge>
+<edge source="#depression" target="#bbc">
+  <data key="d2">1</data>
+</edge>
+<edge source="#depression" target="#sad">
+  <data key="d2">1</data>
+</edge>
+<edge source="#39" target="#shorts">
+  <data key="d2">13</data>
+</edge>
+<edge source="#39" target="#therapy">
+  <data key="d2">2</data>
+</edge>
+<edge source="#39" target="#selfimprovement">
+  <data key="d2">2</data>
+</edge>
+<edge source="#39" target="#inspirationalquotes">
+  <data key="d2">2</data>
+</edge>
+<edge source="#39" target="#inspirational">
+  <data key="d2">2</data>
+</edge>
+<edge source="#39" target="#dailymotivation">
+  <data key="d2">2</data>
+</edge>
+<edge source="#39" target="#dailyinspiration">
+  <data key="d2">2</data>
+</edge>
+<edge source="#39" target="#joerogan">
+  <data key="d2">1</data>
+</edge>
+<edge source="#39" target="#39">
+  <data key="d2">21</data>
+</edge>
+<edge source="#39" target="#artist">
+  <data key="d2">2</data>
+</edge>
+<edge source="#39" target="#culture">
+  <data key="d2">1</data>
+</edge>
+<edge source="#39" target="#museum">
+  <data key="d2">1</data>
+</edge>
+<edge source="#39" target="#painting">
+  <data key="d2">1</data>
+</edge>
+<edge source="#39" target="#portrait">
+  <data key="d2">1</data>
+</edge>
+<edge source="#39" target="#hidden">
+  <data key="d2">1</data>
+</edge>
+<edge source="#39" target="#arthistory">
+  <data key="d2">4</data>
+</edge>
+<edge source="#39" target="#mystery">
+  <data key="d2">2</data>
+</edge>
+<edge source="#39" target="#gogh">
+  <data key="d2">1</data>
+</edge>
+<edge source="#39" target="#behindtheeasel">
+  <data key="d2">1</data>
+</edge>
+<edge source="#39" target="#funfacts">
+  <data key="d2">2</data>
+</edge>
+<edge source="#39" target="#artconspiracy">
+  <data key="d2">2</data>
+</edge>
+<edge source="#39" target="#hiddenhistory">
+  <data key="d2">2</data>
+</edge>
+<edge source="#39" target="#famouspaintings">
+  <data key="d2">2</data>
+</edge>
+<edge source="#39" target="#starrynight">
+  <data key="d2">2</data>
+</edge>
+<edge source="#39" target="#artmysteriessolved">
+  <data key="d2">2</data>
+</edge>
+<edge source="#39" target="#biofamous">
+  <data key="d2">2</data>
+</edge>
+<edge source="#shorts" target="#shorts">
+  <data key="d2">3</data>
+</edge>
+<edge source="#shorts" target="#help">
+  <data key="d2">1</data>
+</edge>
+<edge source="#shorts" target="#care">
+  <data key="d2">1</data>
+</edge>
+<edge source="#shorts" target="#story">
+  <data key="d2">1</data>
+</edge>
+<edge source="#shorts" target="#real">
+  <data key="d2">1</data>
+</edge>
+<edge source="#shorts" target="#anxiety">
+  <data key="d2">1</data>
+</edge>
+<edge source="#shorts" target="#alone">
+  <data key="d2">1</data>
+</edge>
+<edge source="#shorts" target="#schizoaffective">
+  <data key="d2">3</data>
+</edge>
+<edge source="#shorts" target="#schizophrenia">
+  <data key="d2">3</data>
+</edge>
+<edge source="#shorts" target="#bbc">
+  <data key="d2">1</data>
+</edge>
+<edge source="#shorts" target="#sad">
+  <data key="d2">1</data>
+</edge>
+<edge source="#shorts" target="#joerogan">
+  <data key="d2">1</data>
+</edge>
+<edge source="#shorts" target="#fyp">
+  <data key="d2">1</data>
+</edge>
+<edge source="#shorts" target="#vangoghear">
+  <data key="d2">2</data>
+</edge>
+<edge source="#shorts" target="#vangoghart">
+  <data key="d2">2</data>
+</edge>
+<edge source="#shorts" target="#artist">
+  <data key="d2">2</data>
+</edge>
+<edge source="#shorts" target="#behindtheeasel">
+  <data key="d2">1</data>
+</edge>
+<edge source="#shorts" target="#biofamous">
+  <data key="d2">4</data>
+</edge>
+<edge source="#shorts" target="#shortvideo">
+  <data key="d2">1</data>
+</edge>
+<edge source="#shorts" target="#inspiration">
+  <data key="d2">1</data>
+</edge>
+<edge source="#shorts" target="#starrynight">
+  <data key="d2">1</data>
+</edge>
+<edge source="#anxiety" target="#life">
+  <data key="d2">1</data>
+</edge>
+<edge source="#anxiety" target="#1million">
+  <data key="d2">1</data>
+</edge>
+<edge source="#anxiety" target="#love">
+  <data key="d2">1</data>
+</edge>
+<edge source="#anxiety" target="#romantic">
+  <data key="d2">1</data>
+</edge>
+<edge source="#anxiety" target="#artists">
+  <data key="d2">1</data>
+</edge>
+<edge source="#anxiety" target="#help">
+  <data key="d2">1</data>
+</edge>
+<edge source="#anxiety" target="#care">
+  <data key="d2">1</data>
+</edge>
+<edge source="#anxiety" target="#story">
+  <data key="d2">1</data>
+</edge>
+<edge source="#anxiety" target="#real">
+  <data key="d2">1</data>
+</edge>
+<edge source="#anxiety" target="#alone">
+  <data key="d2">1</data>
+</edge>
+<edge source="#anxiety" target="#starrynight">
+  <data key="d2">1</data>
+</edge>
+<edge source="#anxiety" target="#viralreels">
+  <data key="d2">1</data>
+</edge>
+<edge source="#anxiety" target="#viralvideo">
+  <data key="d2">1</data>
+</edge>
+<edge source="#life" target="#1million">
+  <data key="d2">1</data>
+</edge>
+<edge source="#life" target="#love">
+  <data key="d2">1</data>
+</edge>
+<edge source="#life" target="#romantic">
+  <data key="d2">1</data>
+</edge>
+<edge source="#life" target="#artists">
+  <data key="d2">1</data>
+</edge>
+<edge source="#1million" target="#love">
+  <data key="d2">1</data>
+</edge>
+<edge source="#1million" target="#romantic">
+  <data key="d2">1</data>
+</edge>
+<edge source="#1million" target="#artists">
+  <data key="d2">1</data>
+</edge>
+<edge source="#love" target="#romantic">
+  <data key="d2">1</data>
+</edge>
+<edge source="#love" target="#artists">
+  <data key="d2">1</data>
+</edge>
+<edge source="#romantic" target="#artists">
+  <data key="d2">1</data>
+</edge>
+<edge source="#arthistory" target="#mystery">
+  <data key="d2">4</data>
+</edge>
+<edge source="#arthistory" target="#arthistory">
+  <data key="d2">1</data>
+</edge>
+<edge source="#arthistory" target="#mysteries">
+  <data key="d2">1</data>
+</edge>
+<edge source="#arthistory" target="#onthisday">
+  <data key="d2">1</data>
+</edge>
+<edge source="#arthistory" target="#didyouknow">
+  <data key="d2">1</data>
+</edge>
+<edge source="#arthistory" target="#funfacts">
+  <data key="d2">1</data>
+</edge>
+<edge source="#arthistory" target="#artconspiracy">
+  <data key="d2">1</data>
+</edge>
+<edge source="#arthistory" target="#hiddenhistory">
+  <data key="d2">1</data>
+</edge>
+<edge source="#arthistory" target="#famouspaintings">
+  <data key="d2">1</data>
+</edge>
+<edge source="#arthistory" target="#starrynight">
+  <data key="d2">1</data>
+</edge>
+<edge source="#arthistory" target="#artmysteriessolved">
+  <data key="d2">1</data>
+</edge>
+<edge source="#arthistory" target="#vincent">
+  <data key="d2">1</data>
+</edge>
+<edge source="#arthistory" target="#painting">
+  <data key="d2">1</data>
+</edge>
+<edge source="#therapy" target="#selfimprovement">
+  <data key="d2">2</data>
+</edge>
+<edge source="#therapy" target="#inspirationalquotes">
+  <data key="d2">2</data>
+</edge>
+<edge source="#therapy" target="#inspirational">
+  <data key="d2">2</data>
+</edge>
+<edge source="#therapy" target="#dailymotivation">
+  <data key="d2">2</data>
+</edge>
+<edge source="#therapy" target="#dailyinspiration">
+  <data key="d2">2</data>
+</edge>
+<edge source="#selfimprovement" target="#inspirationalquotes">
+  <data key="d2">2</data>
+</edge>
+<edge source="#selfimprovement" target="#inspirational">
+  <data key="d2">2</data>
+</edge>
+<edge source="#selfimprovement" target="#dailymotivation">
+  <data key="d2">2</data>
+</edge>
+<edge source="#selfimprovement" target="#dailyinspiration">
+  <data key="d2">2</data>
+</edge>
+<edge source="#inspirationalquotes" target="#inspirational">
+  <data key="d2">2</data>
+</edge>
+<edge source="#inspirationalquotes" target="#dailymotivation">
+  <data key="d2">2</data>
+</edge>
+<edge source="#inspirationalquotes" target="#dailyinspiration">
+  <data key="d2">2</data>
+</edge>
+<edge source="#inspirational" target="#dailymotivation">
+  <data key="d2">2</data>
+</edge>
+<edge source="#inspirational" target="#dailyinspiration">
+  <data key="d2">2</data>
+</edge>
+<edge source="#dailymotivation" target="#dailyinspiration">
+  <data key="d2">2</data>
+</edge>
+<edge source="#help" target="#care">
+  <data key="d2">1</data>
+</edge>
+<edge source="#help" target="#story">
+  <data key="d2">1</data>
+</edge>
+<edge source="#help" target="#real">
+  <data key="d2">1</data>
+</edge>
+<edge source="#help" target="#alone">
+  <data key="d2">1</data>
+</edge>
+<edge source="#care" target="#story">
+  <data key="d2">1</data>
+</edge>
+<edge source="#care" target="#real">
+  <data key="d2">1</data>
+</edge>
+<edge source="#care" target="#alone">
+  <data key="d2">1</data>
+</edge>
+<edge source="#story" target="#real">
+  <data key="d2">1</data>
+</edge>
+<edge source="#story" target="#alone">
+  <data key="d2">1</data>
+</edge>
+<edge source="#real" target="#alone">
+  <data key="d2">1</data>
+</edge>
+<edge source="#amsterdam" target="#vangoghmuseum">
+  <data key="d2">1</data>
+</edge>
+<edge source="#amsterdam" target="#artist">
+  <data key="d2">1</data>
+</edge>
+<edge source="#amsterdam" target="#short">
+  <data key="d2">1</data>
+</edge>
+<edge source="#amsterdam" target="#reel">
+  <data key="d2">1</data>
+</edge>
+<edge source="#amsterdam" target="#artlife">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vangoghmuseum" target="#artist">
+  <data key="d2">2</data>
+</edge>
+<edge source="#vangoghmuseum" target="#short">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vangoghmuseum" target="#reel">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vangoghmuseum" target="#artlife">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vangoghmuseum" target="#vangoghart">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vangoghmuseum" target="#artpainting">
+  <data key="d2">1</data>
+</edge>
+<edge source="#artist" target="#short">
+  <data key="d2">1</data>
+</edge>
+<edge source="#artist" target="#reel">
+  <data key="d2">1</data>
+</edge>
+<edge source="#artist" target="#artlife">
+  <data key="d2">1</data>
+</edge>
+<edge source="#artist" target="#culture">
+  <data key="d2">2</data>
+</edge>
+<edge source="#artist" target="#museum">
+  <data key="d2">2</data>
+</edge>
+<edge source="#artist" target="#painting">
+  <data key="d2">2</data>
+</edge>
+<edge source="#artist" target="#portrait">
+  <data key="d2">2</data>
+</edge>
+<edge source="#artist" target="#hidden">
+  <data key="d2">1</data>
+</edge>
+<edge source="#artist" target="#fact">
+  <data key="d2">1</data>
+</edge>
+<edge source="#artist" target="#behindtheeasel">
+  <data key="d2">1</data>
+</edge>
+<edge source="#artist" target="#historyfacts">
+  <data key="d2">2</data>
+</edge>
+<edge source="#artist" target="#thesimplistic">
+  <data key="d2">1</data>
+</edge>
+<edge source="#artist" target="#vangoghart">
+  <data key="d2">1</data>
+</edge>
+<edge source="#artist" target="#artpainting">
+  <data key="d2">1</data>
+</edge>
+<edge source="#artist" target="#information">
+  <data key="d2">1</data>
+</edge>
+<edge source="#artist" target="#shortvideo">
+  <data key="d2">1</data>
+</edge>
+<edge source="#artist" target="#inspiration">
+  <data key="d2">1</data>
+</edge>
+<edge source="#artist" target="#starrynight">
+  <data key="d2">1</data>
+</edge>
+<edge source="#short" target="#reel">
+  <data key="d2">1</data>
+</edge>
+<edge source="#short" target="#artlife">
+  <data key="d2">1</data>
+</edge>
+<edge source="#reel" target="#artlife">
+  <data key="d2">1</data>
+</edge>
+<edge source="#starrynight" target="#viralreels">
+  <data key="d2">1</data>
+</edge>
+<edge source="#starrynight" target="#viralvideo">
+  <data key="d2">1</data>
+</edge>
+<edge source="#starrynight" target="#funfacts">
+  <data key="d2">1</data>
+</edge>
+<edge source="#starrynight" target="#artconspiracy">
+  <data key="d2">1</data>
+</edge>
+<edge source="#starrynight" target="#hiddenhistory">
+  <data key="d2">1</data>
+</edge>
+<edge source="#starrynight" target="#famouspaintings">
+  <data key="d2">1</data>
+</edge>
+<edge source="#starrynight" target="#artmysteriessolved">
+  <data key="d2">1</data>
+</edge>
+<edge source="#starrynight" target="#shortvideo">
+  <data key="d2">1</data>
+</edge>
+<edge source="#starrynight" target="#inspiration">
+  <data key="d2">1</data>
+</edge>
+<edge source="#viralreels" target="#viralvideo">
+  <data key="d2">1</data>
+</edge>
+<edge source="#painting" target="#drawing">
+  <data key="d2">1</data>
+</edge>
+<edge source="#painting" target="#culture">
+  <data key="d2">2</data>
+</edge>
+<edge source="#painting" target="#museum">
+  <data key="d2">2</data>
+</edge>
+<edge source="#painting" target="#portrait">
+  <data key="d2">2</data>
+</edge>
+<edge source="#painting" target="#hidden">
+  <data key="d2">1</data>
+</edge>
+<edge source="#painting" target="#jre">
+  <data key="d2">2</data>
+</edge>
+<edge source="#painting" target="#joerogan">
+  <data key="d2">2</data>
+</edge>
+<edge source="#painting" target="#joeroganexperience">
+  <data key="d2">1</data>
+</edge>
+<edge source="#painting" target="#night">
+  <data key="d2">2</data>
+</edge>
+<edge source="#painting" target="#neildegrassetyson">
+  <data key="d2">1</data>
+</edge>
+<edge source="#painting" target="#fact">
+  <data key="d2">1</data>
+</edge>
+<edge source="#painting" target="#painter">
+  <data key="d2">4</data>
+</edge>
+<edge source="#painting" target="#painting">
+  <data key="d2">1</data>
+</edge>
+<edge source="#painting" target="#vincent">
+  <data key="d2">1</data>
+</edge>
+<edge source="#schizoaffective" target="#schizophrenia">
+  <data key="d2">3</data>
+</edge>
+<edge source="#schizophrenia" target="#shors">
+  <data key="d2">1</data>
+</edge>
+<edge source="#schizophrenia" target="#vlog">
+  <data key="d2">1</data>
+</edge>
+<edge source="#bbc" target="#sad">
+  <data key="d2">1</data>
+</edge>
+<edge source="#joerogan" target="#jre">
+  <data key="d2">4</data>
+</edge>
+<edge source="#joerogan" target="#joeroganexperience">
+  <data key="d2">2</data>
+</edge>
+<edge source="#joerogan" target="#night">
+  <data key="d2">4</data>
+</edge>
+<edge source="#joerogan" target="#neildegrassetyson">
+  <data key="d2">2</data>
+</edge>
+<edge source="#joerogan" target="#joerogan">
+  <data key="d2">1</data>
+</edge>
+<edge source="#culture" target="#museum">
+  <data key="d2">2</data>
+</edge>
+<edge source="#culture" target="#portrait">
+  <data key="d2">2</data>
+</edge>
+<edge source="#culture" target="#hidden">
+  <data key="d2">1</data>
+</edge>
+<edge source="#culture" target="#fact">
+  <data key="d2">1</data>
+</edge>
+<edge source="#museum" target="#portrait">
+  <data key="d2">2</data>
+</edge>
+<edge source="#museum" target="#hidden">
+  <data key="d2">1</data>
+</edge>
+<edge source="#museum" target="#fact">
+  <data key="d2">1</data>
+</edge>
+<edge source="#portrait" target="#hidden">
+  <data key="d2">1</data>
+</edge>
+<edge source="#portrait" target="#fact">
+  <data key="d2">1</data>
+</edge>
+<edge source="#jre" target="#joeroganexperience">
+  <data key="d2">2</data>
+</edge>
+<edge source="#jre" target="#night">
+  <data key="d2">4</data>
+</edge>
+<edge source="#jre" target="#neildegrassetyson">
+  <data key="d2">2</data>
+</edge>
+<edge source="#jre" target="#jre">
+  <data key="d2">1</data>
+</edge>
+<edge source="#joeroganexperience" target="#night">
+  <data key="d2">2</data>
+</edge>
+<edge source="#joeroganexperience" target="#neildegrassetyson">
+  <data key="d2">1</data>
+</edge>
+<edge source="#night" target="#neildegrassetyson">
+  <data key="d2">2</data>
+</edge>
+<edge source="#night" target="#night">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vangoghear" target="#vangoghart">
+  <data key="d2">1</data>
+</edge>
+<edge source="#vangoghart" target="#artpainting">
+  <data key="d2">1</data>
+</edge>
+<edge source="#mystery" target="#mystery">
+  <data key="d2">1</data>
+</edge>
+<edge source="#humanhistoryondrugs" target="#crazyhistory">
+  <data key="d2">1</data>
+</edge>
+<edge source="#onthisday" target="#didyouknow">
+  <data key="d2">1</data>
+</edge>
+<edge source="#historyfacts" target="#thesimplistic">
+  <data key="d2">1</data>
+</edge>
+<edge source="#historyfacts" target="#information">
+  <data key="d2">1</data>
+</edge>
+<edge source="#funfacts" target="#artconspiracy">
+  <data key="d2">1</data>
+</edge>
+<edge source="#funfacts" target="#hiddenhistory">
+  <data key="d2">1</data>
+</edge>
+<edge source="#funfacts" target="#famouspaintings">
+  <data key="d2">1</data>
+</edge>
+<edge source="#funfacts" target="#artmysteriessolved">
+  <data key="d2">1</data>
+</edge>
+<edge source="#artconspiracy" target="#hiddenhistory">
+  <data key="d2">1</data>
+</edge>
+<edge source="#artconspiracy" target="#famouspaintings">
+  <data key="d2">1</data>
+</edge>
+<edge source="#artconspiracy" target="#artmysteriessolved">
+  <data key="d2">1</data>
+</edge>
+<edge source="#hiddenhistory" target="#famouspaintings">
+  <data key="d2">1</data>
+</edge>
+<edge source="#hiddenhistory" target="#artmysteriessolved">
+  <data key="d2">1</data>
+</edge>
+<edge source="#famouspaintings" target="#artmysteriessolved">
+  <data key="d2">1</data>
+</edge>
+<edge source="#biofamous" target="#biofamous">
+  <data key="d2">1</data>
+</edge>
+<edge source="#shortvideo" target="#inspiration">
+  <data key="d2">1</data>
+</edge>
+<edge source="#painter" target="#painter">
+  <data key="d2">1</data>
+</edge>
+</graph></graphml>
